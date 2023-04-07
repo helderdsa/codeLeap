@@ -1,0 +1,25 @@
+label * {
+  display: block;
+  margin: 8px 0px;
+  width: 100%;
+}
+
+#form-content {
+  resize: none;
+  grid-row: 5;
+}
+
+.post-form-name {
+  padding: 24px;
+  border: solid gray 1px;
+  border-radius: 16px;
+}
+.create-post-button {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: white;
+  background-color: #7695EC;
+  padding: 4px 16px;
+  border: none;
+  border-radius: 4px;
+}

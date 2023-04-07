@@ -1,0 +1,26 @@
+h3 {
+  margin: 0px 0px 24px 0px;
+}
+
+.signupBody {
+  width: 400px;
+  padding: 24px;
+  border: solid gray 1px;
+  border-radius: 16px;
+}
+.login-button {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: white;
+  background-color: #7695EC;
+  padding: 4px 16px;
+  border: none;
+  border-radius: 4px;
+}
+
+#user-input {
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  width: 98%;
+}
