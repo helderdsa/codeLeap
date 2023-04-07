@@ -1,0 +1,33 @@
+.delete-modal-body {
+  width: 460px;
+  padding: 24px;
+  border: #999999 solid 1px;
+  border-radius: 16px;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: end;
+}
+
+.modal-buttons * {
+  margin-left: 16px;
+}
+
+.cancel-button {
+  font-weight: 600;
+  color: black;
+  background-color: white;
+  padding: 4px 16px;
+  border: #999999 solid 1px;
+  border-radius: 4px;
+}
+
+.delete-button {
+  font-weight: 1000;
+  color: white;
+  background-color: #ff5151;
+  padding: 4px 16px;
+  border: #ff5151 solid 1px;
+  border-radius: 4px;
+}

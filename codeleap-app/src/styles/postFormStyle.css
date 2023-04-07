@@ -15,7 +15,6 @@ label * {
   border-radius: 16px;
 }
 .create-post-button {
-  text-transform: uppercase;
   font-weight: 600;
   color: white;
   background-color: #7695EC;

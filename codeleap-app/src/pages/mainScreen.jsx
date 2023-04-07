@@ -10,8 +10,8 @@ function MainScreen() {
         <h2>CodeLeap Network</h2>
       </header>
       {/* <PostForm /> */}
-      <Post />
-      {/* <DeleteModal /> */}
+      {/* <Post /> */}
+      <DeleteModal />
       {/* <EditModal /> */}
     </div>
   )
