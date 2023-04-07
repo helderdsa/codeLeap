@@ -5,14 +5,14 @@ import PostForm from "../components/postForm"
 
 function MainScreen() {
   return (
-    <div>
+    <div className="main-screen-body">
       <header>
         <h2>CodeLeap Network</h2>
       </header>
-      {/* <PostForm /> */}
-      {/* <Post /> */}
+      <PostForm />
+      <Post />
       <DeleteModal />
-      {/* <EditModal /> */}
+      <EditModal />
     </div>
   )
 }

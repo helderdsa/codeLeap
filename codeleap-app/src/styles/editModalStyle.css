@@ -1,10 +1,11 @@
-.post-form-body {
+.edit-modal-body {
+  width: 460px;
   padding: 24px;
-  border: solid gray 1px;
+  border: #999999 solid 1px;
   border-radius: 16px;
 }
 
-.post-form label * {
+.modal-post-form label * {
   display: block;
   margin: 8px 0px;
   width: 100%;
@@ -13,20 +14,15 @@
   padding: 4px 8px;
 }
 
-.form-button {
-  display: flex;
-  justify-content: end;
-}
-
-.create-post-button {
-  font-weight: 600;
+.save-button {
+  font-weight: 1000;
   color: white;
-  background-color: #7695EC;
+  background-color: #47B960;
   padding: 4px 16px;
-  border: none;
+  border: #47B960 solid 1px;
   border-radius: 4px;
 }
 
-#form-content {
+#modal-form-content {
   resize: none;
 }
