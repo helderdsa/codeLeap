@@ -9,7 +9,7 @@ label * {
   grid-row: 5;
 }
 
-.post-form-name {
+.post-form-body {
   padding: 24px;
   border: solid gray 1px;
   border-radius: 16px;

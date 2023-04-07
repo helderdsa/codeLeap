@@ -2,7 +2,7 @@ import '../styles/postFormStyle.css'
 
 function PostForm() {
   return (
-    <div className='post-form-name'>
+    <div className='post-form-body'>
       <h3>What’s on your mind?</h3>
       <form>
         <label htmlFor="form-title">
